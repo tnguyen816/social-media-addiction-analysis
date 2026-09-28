@@ -2,8 +2,9 @@
 
 An end-to-end data analysis project exploring how social media usage habits relate to mental health among 1 million users aged 13 to 27. The analysis was done in **MySQL** and visualized in an interactive **Tableau Public** dashboard.
 
-🔗 **Live dashboard:** https://public.tableau.com/views/SocialMediaAddiction_17905464244050/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-📁 **Dataset:** (https://www.kaggle.com/datasets/sharmajicoder/gen-z-social-media-usage-dataset/data)
+**Live dashboard:** https://public.tableau.com/views/SocialMediaAddiction_17905464244050/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+**Dataset:** (https://www.kaggle.com/datasets/sharmajicoder/gen-z-social-media-usage-dataset/data)
 
 
 ## Overview
@@ -74,7 +75,6 @@ Because most users fall into the Medium addiction group, the overall average men
 - **Possibly synthetic data.** The near-identical averages across gender, country, age, and night usage suggest the dataset may be simulated, so real-world patterns could differ.
 - **Small differences on the map.** Country shading exaggerates very small differences in average usage; check the actual values before drawing conclusions.
 
-```
 
 > The raw 1M-row dataset is not included in this repo because of its size. Download it from the Kaggle link above.
 
